@@ -26,7 +26,7 @@ h3 {
   font-size: 40px;
 }
 
-.game a {
+.game{
   color: #ffffff;
   font-size: 30px;
   text-decoration: none;
@@ -58,9 +58,6 @@ h3 {
   border: 5px solid #5e3114;
   background: #ffffff;
   transition: 250ms;
-}
-
-.game a:hover {
   color: #32121d;
   letter-spacing: 0.25em;
 }
